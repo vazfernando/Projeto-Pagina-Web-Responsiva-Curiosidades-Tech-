@@ -242,7 +242,8 @@ footer {
     color: white;
     text-align: center;
     height: 20px;
-    padding-top: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 footer a {
@@ -254,5 +255,10 @@ footer a {
 footer a:hover {
     color: var(--cor05);
     text-decoration: underline;
+}
+
+footer p {
+    max-width: 700px;
+    margin: auto;
 }
 
