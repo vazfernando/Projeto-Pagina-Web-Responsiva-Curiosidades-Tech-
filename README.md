@@ -1,4 +1,4 @@
-# Projeto Android
+# Projeto de Página Web Responsiva
 
 * O que é? 
   * Criação de página web responsiva utilizando **HTML** e **CSS** com redirecionamento de links para páginas externas em novas abas.
