@@ -1,4 +1,4 @@
-# Projeto de Página Web Responsiva
+# Projeto de Página Web Responsiva (Curiosidades Tech)
 
 * O que é? 
   * Criação de página web responsiva utilizando **HTML** e **CSS** com redirecionamento de links para páginas externas em novas abas.
