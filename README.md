@@ -1,11 +1,11 @@
 # Projeto Android
 
 Projeto Android - Criação de página web responsiva com redirecionamento de links para páginas externas em novas abas.
-O projeto é uma página de curiosidades de tecnologia. O conteúdo do dia é a criação e concepção do mascote 'Android' pela ilustradora russa Irina Blok.
+O projeto é uma página de curiosidades em tecnologia. O conteúdo do dia é sobre o sistema **Android** e seu simpático mascote o **Bug Droid** criado pela ilustradora russa Irina Blok.
 
 * No projeto foi criada 1 página:
 
-* Principal (index.html),
+*** Principal (index.html),
 * Três links para acessar páginas externas
 * O projeto publicado é referente ao estudo do Curso de HTML5, CSS3 realizado na Plataforma da Curso em Video (https://www.cursoemvideo.com/)
 
@@ -21,7 +21,7 @@ O projeto é uma página de curiosidades de tecnologia. O conteúdo do dia é a 
 * Ajuste de Imagens Responsivas ao tamanho da tela.
 * Vídeo Responsivo de link externo (embed code).
 * Uso de variaveis em CSS
-- Uso de :hover em animação na barra de navegação.
+* Implementação de animação utilizando Hover na barra de navegação, nos links e nas palavras destacadas.
 
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 Todo o texto utilizado no projeto, e a parte de contatos são ficticios, criado apenas para realização do projeto do curso.
