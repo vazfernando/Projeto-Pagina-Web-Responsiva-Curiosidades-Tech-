@@ -15,12 +15,13 @@ O projeto é uma página de curiosidades de tecnologia. O conteúdo do dia é a 
 
 
 ## Conceitos utilizados
-Criação de Listas.
-Aplicação de Bordas.
-Ajuste de Imagens Responsivas ao tamanho da tela.
-Redirecionamentos de links para páginas externas.
-Uso de variaveis no CSS
-Uso de :hover na barra de navegação
+* Criação de Listas.
+* Aplicação de Bordas.
+* Redirecionamentos de links para páginas externas.
+* Ajuste de Imagens Responsivas ao tamanho da tela.
+* Vídeo Responsivo de link externo (embed code).
+* Uso de variaveis em CSS
+- Uso de :hover em animação na barra de navegação.
 
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 Todo o texto utilizado no projeto, e a parte de contatos são ficticios, criado apenas para realização do projeto do curso.
