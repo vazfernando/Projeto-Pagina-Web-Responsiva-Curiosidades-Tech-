@@ -1,7 +1,7 @@
 # Projeto Android
 
 * O que é? 
-  * Criação de página web responsiva com redirecionamento de links para páginas externas em novas abas.
+  * Criação de página web responsiva utilizando **HTML** e **CSS** com redirecionamento de links para páginas externas em novas abas.
 * Sobre o que é? 
   * O projeto é uma página de curiosidades em tecnologia. O conteúdo do dia é sobre o sistema **Android** e seu simpático mascote o **Bug Droid** criado pela ilustradora russa Irina Blok.
 
