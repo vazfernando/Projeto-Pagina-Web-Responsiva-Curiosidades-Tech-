@@ -15,7 +15,7 @@ O projeto é uma página de curiosidades de tecnologia. O conteúdo do dia é a 
 
 
 ## Conceitos utilizados
-* Criação de Listas.
+** Criação de Listas.
 * Aplicação de Bordas.
 * Redirecionamentos de links para páginas externas.
 * Ajuste de Imagens Responsivas ao tamanho da tela.
