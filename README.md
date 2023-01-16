@@ -21,9 +21,12 @@ O projeto é uma página de curiosidades em tecnologia. O conteúdo do dia é so
   * Ajuste de Imagens Responsivas ao tamanho da tela.
   * Vídeo Responsivo de link externo (embed code).
   * Uso de variaveis em CSS
-  * Implementação de animação utilizando Hover na barra de navegação, nos links e nas palavras destacadas.
+  * Animação utilizando Hover na barra de navegação, nos links e nas palavras destacadas.
+  * Fade (linear-gradiente) na colocação de fundos e barras.
+  * Tradução de nomes em inglês utilizando Abreviation Element <abbr>.
+  * Utilização de fontes externas dentro do CSS.
 
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 
-Site Publicado no link abaixo
-https://vazfernando.github.io/projeto-android/
+## Site Publicado no link abaixo
+ * https://vazfernando.github.io/projeto-android/
