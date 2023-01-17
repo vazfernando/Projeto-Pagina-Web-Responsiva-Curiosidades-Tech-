@@ -31,4 +31,4 @@
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 
 ## Site Publicado no link abaixo
- * https://vazfernando.github.io/projeto-android/
+ * https://vazfernando.github.io/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-/
